@@ -1,23 +1,30 @@
-
 # Layoff Data Analysis (SQL + Power BI)
 
-## 📌 Project Overview
-This project explores and analyzes global layoffs data from the tech and startup sectors using SQL and Power BI. It includes a complete data cleaning pipeline, transformation steps, and exploratory insights into industry trends, company performance, and country-wise impact.
+## Project Overview
 
-## 💡 Key Features
-- Data Cleaning with SQL (duplicates, nulls, standardization)
-- Timestamp and data type fixes
-- Trend analysis (year-wise, industry-wise, country-wise)
-- Power BI dashboard for interactive visual exploration
+This project focuses on analyzing layoff trends across the tech and startup ecosystem. Using SQL for data cleaning and transformation, and Power BI for visualization, the goal was to identify patterns in layoffs by industry, company, country, and funding stage.
 
-## 🧠 Tools Used
-- SQL (MySQL / PostgreSQL)
+The dataset had several issues including duplicates, inconsistent formatting, and missing values. I created a staging table and applied multiple SQL operations to clean and prepare the data for analysis. Once cleaned, I used Power BI to build an interactive dashboard that presents the key insights clearly.
+
+## Features
+
+- Full SQL-based data cleaning process
+- Handling of null values, duplicates, and formatting issues
+- Standardization of industries and country fields
+- Date conversions and data type corrections
+- Power BI dashboard for exploratory data analysis
+
+## Files Included
+
+- `layoffs.csv` - The raw dataset used
+- `cleaning_eda.sql` - SQL script with all cleaning and transformation steps
+- `power_bi_project_shxdabb.pbix` - Power BI file with the final dashboard
+
+## Tools Used
+
+- SQL (MySQL)
 - Power BI Desktop
 
-## 📂 Files Included
-- `layoffs.csv`: Raw data file
-- `cleaning_eda.sql`: All SQL steps for cleaning and exploration
-- `power_bi_project_prince.pbix`: Power BI report
+## Notes
 
-## 🚀 Project Status
-Completed and ready for submission.
+This project is part of a larger exploration into how data cleaning and visualization can help uncover real-world business and economic trends. All steps were done manually with a focus on accuracy, not automation.
