@@ -10,7 +10,7 @@ The dataset had several issues including duplicates, inconsistent formatting, an
 
 - Full SQL-based data cleaning process 
 - Handling of null values, duplicates, and formatting issues
-- Standardization of industries and country fields
+   Standardization of industries and country fields
 - Date conversions and data type corrections
 - Power BI dashboard for exploratory data analysis
  
