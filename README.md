@@ -8,7 +8,7 @@ The dataset had several issues including duplicates, inconsistent formatting, an
 
 ## Features
 
-- Full SQL-based data cleaning process
+- Full SQL-based data cleaning process 
 - Handling of null values, duplicates, and formatting issues
 - Standardization of industries and country fields
 - Date conversions and data type corrections
