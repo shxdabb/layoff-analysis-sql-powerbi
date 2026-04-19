@@ -15,7 +15,7 @@ The dataset had several issues including duplicates, inconsistent formatting, an
 - Power BI dashboard for exploratory data analysis
   
 ## Files Included
- 
+  
 - `layoffs.csv` - The raw dataset used
 - `cleaning_eda.sql` - SQL script with all cleaning and transformation steps
 - `power_bi_project_shxdabb.pbix` - Power BI file with the final dashboard
